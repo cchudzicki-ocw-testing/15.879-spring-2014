@@ -8,6 +8,5 @@ parent_title: Student Projects
 parent_type: CourseSection
 resourcetype: Other
 title: MLE_files.zip
-type: OCWFile
 uid: 90ebc69a-33f1-52e7-0a43-e2668c4e7865
 ---

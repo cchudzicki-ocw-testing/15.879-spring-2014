@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Rahmandad, Hazhir
-type: OCWFile
 uid: da344570-c02f-bb70-8eec-93084927c4bd
 ---
