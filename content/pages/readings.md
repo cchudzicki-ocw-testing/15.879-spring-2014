@@ -47,7 +47,7 @@ Martinez–Moyano, Ignacio, and George P. Richardson. "[Best Practices in System
 
 Andersen, David F., George P. Richardson, et al. "[Group Model Buidling: Adding More Science to the Craft](http://onlinelibrary.wiley.com/doi/10.1002/%28SICI%291099-1727%28199722%2913:2%3C187::AID-SDR124%3E3.0.CO;2-O/abstract)." _System Dynamics Review_ 13, no. 2 (1998): 187–201.
 
-[Hines Modeling Process Overview (PDF)]({{< baseurl >}}/resources/mit15_879s14_modelprocover)
+{{< resource_link da344570-c02f-bb70-8eec-93084927c4bd "Hines Modeling Process Overview (PDF)" >}}
 
 Wolstenholme, Eric F. "A Systematic Approach to Model Creation." In _Modeling for Learning Organizations_. Edited by John D. W. Morecroft and John D. Sterman. Productivity Press, 1994. ISBN: 9781563270604.
 

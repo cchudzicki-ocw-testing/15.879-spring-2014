@@ -47,7 +47,7 @@ Maximum Likelihood Estimation and Confidence Intervals
 {{< resource 4fd8e822-2675-eb4e-5d01-7d94982cb4a5 >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Maximum Likelihood Estimation and Confidence Intervals Supplemental Files (ZIP)]({{< baseurl >}}/resources/mle_files)  (The ZIP folder contains: 1 .csv and 1 .mdl file.)
+{{< resource_link 90ebc69a-33f1-52e7-0a43-e2668c4e7865 "Maximum Likelihood Estimation and Confidence Intervals Supplemental Files (ZIP)" >}}  (The ZIP folder contains: 1 .csv and 1 .mdl file.)
 {{< tdclose >}}
 
 {{< trclose >}}
