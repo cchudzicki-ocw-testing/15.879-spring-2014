@@ -6,23 +6,19 @@ ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 862b0b7e-4a8c-049f-7678-c5a2f3490163
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _15.879 Research Seminar in System Dynamics_ as it was taught by Professor Hazhir Rahmandad in Spring 2014.
 
 The course covered classic works in dynamic modeling from various disciplines and current research problems and papers.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
 Students critiqued theories and models, often including replication, testing, and improvement of various models.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -30,8 +26,8 @@ Curriculum Information
 
 ### Requirements Satisfied
 
-*   H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
-*   This course can be repeated for credit.
+- H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
+- This course can be repeated for credit.
 
 ### Offered
 
@@ -39,8 +35,7 @@ Every spring semester
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -50,8 +45,7 @@ The students' grades were based on the following activities:
 - 15% Team member assessment
 - 5% Tutorial and project review
 
-Student Information
--------------------
+## Student Information
 
 {{< resource 19bc6637-d7fb-1de0-00bd-678c5076c96a >}}
 
@@ -61,7 +55,7 @@ Master's and Doctoral students
 
 ### Breakdown by Major
 
-Mainly students in the [MIT Sloan School of Management](http://mitsloan.mit.edu/academic/) and in the [School of Engineering](http://engineering.mit.edu), including students in [System Design & Management](https://sdm.mit.edu) and the [Engineering Systems Division](http://esd.mit.edu). A few students from other fields, such as Architecture, and graduate students cross-registered in other schools or in industries also participated.
+Mainly students in the [MIT Sloan School of Management](https://mitsloan.mit.edu/) and in the [School of Engineering](http://engineering.mit.edu), including students in [System Design & Management](https://sdm.mit.edu) and the [Engineering Systems Division](http://esd.mit.edu). A few students from other fields, such as Architecture, and graduate students cross-registered in other schools or in industries also participated.
 
 ### Typical Student Background
 
@@ -69,20 +63,17 @@ Students are required to have some background in system dynamics, and usually ha
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+## In Class
 
 Met 1 time per week for 3 hours per session; mandatory attendance
 
-Out of Class
-------------
+## Out of Class
 
-*   {{< resource_link 2baf8857-4a12-f275-664f-53656faa3343 "homework" >}}
-*   {{< resource_link 487a9397-f712-4495-f5cf-0d8d9167d15e "readings" >}}
-*   research
-*   {{< resource_link 8c8544ac-bfcd-6115-1b40-3fb74bb88c5b "project work" >}}
+- {{< resource_link 2baf8857-4a12-f275-664f-53656faa3343 "homework" >}}
+- {{< resource_link 487a9397-f712-4495-f5cf-0d8d9167d15e "readings" >}}
+- research
+- {{< resource_link 8c8544ac-bfcd-6115-1b40-3fb74bb88c5b "project work" >}}
