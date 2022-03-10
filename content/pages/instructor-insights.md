@@ -22,7 +22,7 @@ Students critiqued theories and models, often including replication, testing, an
 
 ### Prerequisites
 
-[_15.872 System Dynamics II_](/courses/15-872-system-dynamics-ii-fall-2013/) and permission of instructor
+[_15.872 System Dynamics II_](/courses/15-872-system-dynamics-ii-fall-2013) and permission of instructor
 
 ### Requirements Satisfied
 
