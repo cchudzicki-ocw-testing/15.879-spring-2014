@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -47,7 +48,9 @@ The students' grades were based on the following activities:
 
 ## Student Information
 
-{{< resource 19bc6637-d7fb-1de0-00bd-678c5076c96a >}}
+### Enrollment
+
+About 20 students
 
 ### Breakdown by Year
 
@@ -67,11 +70,11 @@ Students are required to have some background in system dynamics, and usually ha
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-## In Class
+### In Class
 
 Met 1 time per week for 3 hours per session; mandatory attendance
 
-## Out of Class
+### Out of Class
 
 - {{% resource_link 2baf8857-4a12-f275-664f-53656faa3343 "homework" %}}
 - {{% resource_link 487a9397-f712-4495-f5cf-0d8d9167d15e "readings" %}}
