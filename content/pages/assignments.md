@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This sections contains descriptions of the assignments for the course,
+  including homework, group projects, and tutorials.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

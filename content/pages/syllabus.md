@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course description and objectives, and information
+  on meeting times, prerequisites, major course concepts and techniques, required
+  texts, software, hardware, reading assignments, weekly presentations, class exercises,
+  projects and tutorials, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
