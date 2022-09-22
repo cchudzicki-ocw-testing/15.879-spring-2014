@@ -5,6 +5,7 @@ file: /courses/15-879-research-seminar-in-system-dynamics-spring-2014/da344570c0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
